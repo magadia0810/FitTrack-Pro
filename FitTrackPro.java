@@ -424,3 +424,4 @@ public class FitTrackPro {
     static class Strength extends Workout { Strength(int id,int w,int d,LocalDate dt,String i,String g){super(id,w,d,dt,i,g);} }
     static class Flexibility extends Workout { Flexibility(int id,int w,int d,LocalDate dt,String i,String g){super(id,w,d,dt,i,g);} }
 }
+
